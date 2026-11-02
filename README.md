@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f1f33&height=190&text=JULIAN%20JIMENEZ%20LONDO%C3%91O&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Tecn%C3%B3logo%20en%20Desarrollo%20de%20Software%20%C2%B7%20Full-Stack%20.NET%20%26%20Angular&descSize=15&descColor=c9a24b&descAlignY=64" alt="Julian Jimenez Londoño" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f1f33&height=210&section=header&text=Julian%20Jimenez%20Londo%C3%B1o&fontSize=42&fontColor=ffffff&desc=Desarrollador%20Full-Stack%20%C2%B7%20.NET%20%C2%B7%20Angular&descSize=18&descColor=c9a24b&descAlignY=68" alt="Julian Jimenez Londoño" width="100%"/>
 
-<img src="https://img.shields.io/badge/-%E2%97%86%20ABIERTO%20A%20NUEVAS%20OPORTUNIDADES%20%E2%97%86-c9a24b?style=flat-square&labelColor=0f1f33" alt="Abierto a nuevas oportunidades"/>
+### 🚀 Abierto a nuevas oportunidades
 
 [![Correo](https://img.shields.io/badge/Correo-jjimjulian@gmail.com-0f1f33?style=for-the-badge&logo=gmail&logoColor=c9a24b)](mailto:jjimjulian@gmail.com)
 [![Teléfono](https://img.shields.io/badge/Tel%C3%A9fono-%2B57%20314%20546%201918-0f1f33?style=for-the-badge&logo=whatsapp&logoColor=c9a24b)](https://wa.me/573145461918)
